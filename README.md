@@ -305,6 +305,14 @@ As time passed the project was lucky to get the support of additional developers
 
 To see the full list of authors and their contributions please look at the [git history](https://github.com/rear/rear/graphs/contributors). We are very thankful to all authors and encourage anybody interested to take a look at our source code and to contribute what you find important.
 
-## Start History
+## Star History
 
-https://www.star-history.com/?repos=rear%2Frear&type=date&legend=top-left
+<div align="center">
+
+<a href="https://star-history.com/#rear/rear&Date">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=rear/rear&type=Date&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=rear/rear&type=Date" />
+    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=rear/rear&type=Date" />
+  </picture>
+</a>
